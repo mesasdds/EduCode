@@ -1,0 +1,11 @@
+{
+  "name": "linguagem",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "run": "node ./src/cli.js"
+  },
+  "bin": {
+    "educode": "./src/cli.js"
+  }
+}

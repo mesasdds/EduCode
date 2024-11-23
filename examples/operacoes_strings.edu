@@ -1,0 +1,5 @@
+texto primeiroNome = "Ana";
+texto ultimoNome = "Silva";
+texto nomeCompleto = primeiroNome + " " + ultimoNome;
+
+exibir("Nome completo: " + nomeCompleto);

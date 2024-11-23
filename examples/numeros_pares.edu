@@ -1,0 +1,10 @@
+inteiro numero = 1;
+
+enquanto (numero <= 10)
+{
+    se (numero % 2 == 0)
+    {
+        exibir("Par: " + numero);
+    }
+    numero = numero + 1;
+}

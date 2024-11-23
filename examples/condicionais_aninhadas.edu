@@ -1,0 +1,18 @@
+inteiro nota = 85;
+
+se (nota >= 90)
+{
+    exibir("Nota A");
+}
+senaoSe (nota >= 80)
+{
+    exibir("Nota B");
+}
+senaoSe (nota >= 70)
+{
+    exibir("Nota C");
+}
+senao
+{
+    exibir("Nota D");
+}

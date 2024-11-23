@@ -1,0 +1,11 @@
+inteiro numero = 5;
+inteiro fatorial = 1;
+inteiro i = 1;
+
+enquanto (i <= numero)
+{
+    fatorial = fatorial * i;
+    i = i + 1;
+}
+
+exibir("Fatorial de " + numero + " é " + fatorial);

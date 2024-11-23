@@ -1,0 +1,9 @@
+inteiro contagem = 10;
+
+enquanto (contagem > 0)
+{
+    exibir("Contagem: " + contagem);
+    contagem = contagem - 1;
+}
+
+exibir("Feliz Ano Novo!");

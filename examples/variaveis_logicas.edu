@@ -1,0 +1,16 @@
+inteiro temperatura = 35;
+logico estaQuente = false;
+
+se (temperatura > 30)
+{
+    estaQuente = true;
+}
+
+se (estaQuente == true)
+{
+    exibir("Está quente hoje!");
+}
+senao
+{
+    exibir("Está fresco hoje!");
+}

@@ -1,0 +1,9 @@
+inteiro a = 10;
+decimal b = 5.5;
+logico c = true;
+texto d = "Teste de variáveis";
+
+exibir("Inteiro a: " + a);
+exibir("Decimal b: " + b);
+exibir("Lógico c: " + c);
+exibir("Texto d: " + d);

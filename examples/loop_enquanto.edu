@@ -1,0 +1,7 @@
+inteiro contador = 1;
+
+enquanto (contador <= 5)
+{
+    exibir("Contagem: " + contador);
+    contador = contador + 1;
+}

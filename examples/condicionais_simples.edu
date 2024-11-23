@@ -1,0 +1,10 @@
+inteiro idade = 20;
+
+se (idade >= 18)
+{
+    exibir("Você é maior de idade.");
+}
+senao
+{
+    exibir("Você é menor de idade.");
+}

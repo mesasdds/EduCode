@@ -1,0 +1,12 @@
+inteiro x = 15;
+inteiro y = 4;
+
+inteiro soma = x + y;
+inteiro subtracao = x - y;
+inteiro multiplicacao = x * y;
+inteiro divisao = x / y;
+
+exibir("Soma: " + soma);
+exibir("Subtração: " + subtracao);
+exibir("Multiplicação: " + multiplicacao);
+exibir("Divisão: " + divisao);

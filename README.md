@@ -1,2 +1,3 @@
-# EduCode
-Interpretador da linguagem EduCode desenvolvido em Node.js. EduCode é uma linguagem de programação educacional que suporta variáveis, condicionais, loops e funções de entrada/saída.
+EduCode
+EduCode é uma linguagem de programação educacional desenvolvida em Node.js. Ela foi projetada para ajudar iniciantes a aprender conceitos fundamentais de programação de forma intuitiva.
+
