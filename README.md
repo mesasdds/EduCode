@@ -39,6 +39,8 @@ cd EduCode
 
 Para executar um arquivo .edu, utilize o seguinte comando:
 
+node src/cli.js examples/exemploerrado.edu
+
 npm run run -- caminho/para/o/arquivo.edu
 
 Exemplos:
